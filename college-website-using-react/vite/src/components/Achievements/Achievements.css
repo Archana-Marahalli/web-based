@@ -1,0 +1,17 @@
+@media(max-width:650px){
+    .achievements{
+        flex-direction: column;
+    }
+    .program{
+        flex-basis: 100%;
+        margin:20px;
+    }
+}
+
+
+.achievements .program {
+    transition: transform 0.3s;
+}
+.achievements .program:hover {
+    transform: translateY(-6px);
+}

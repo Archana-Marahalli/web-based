@@ -1,0 +1,42 @@
+/*body{
+    margin:0;
+    background-image: url("E:/Photos-Desktop-HD-Car-Wallpapers.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+  }
+  .hero1{
+    display:flex;
+    height:100vh;
+    background-color: black;
+    background-image:url("./src/assets/image/b1.jpg");
+    background-size: cover;
+    box-shadow:inset 0 0 2000 px rgba(224, 40, 40, 0.8);
+  
+  }
+  .content p{
+    font-size: 22px;
+    margin:15px;
+    max-width: 550px;
+    color:maroon;
+    text-decoration:bolder;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  .content a{
+    color:inherit;
+    text-decoration: none;
+    background-color:purple ;
+    padding:12px 24px;
+    font-size: 22px;
+    border-radius: 10px;
+  }*/
+  .body {
+    background-image: url("../../assets/kuvempu.jpg");
+    background-size: cover;
+    display: flex;
+    background-repeat: no-repeat;
+
+  }
+  .log img{
+    text-align:left;
+  }
